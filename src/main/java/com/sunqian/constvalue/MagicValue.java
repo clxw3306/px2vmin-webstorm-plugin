@@ -19,7 +19,7 @@ public class MagicValue {
 
     public static final String VW_STYLE_TAG = "vw";
 
-    public static final String VH_STYLE_TAG = "vh";
+    public static final String VH_STYLE_TAG = "vmin";
 
     public static final String NUMBER_PATTERN_FORMULA = "-?[0-9]*(\\.[0-9]+)?";
 
